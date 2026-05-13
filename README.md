@@ -2,7 +2,7 @@
 
 This analysis was used to write this story: https://outliermedia.org/free-bus-detroit-students-southeastern-high-school-transportation/
 
-The analysis compares Detroit city bus schedules to high school bell schedules in Detroit. Outlier used ChatGPT to generate a Python script for the analysis. The code was written in and for a Jupyter Notebook.
+The analysis compares Detroit city bus schedules to high school bell schedules in Detroit. Outlier used ChatGPT to generate a Python script for the analysis. The code was written in a Jupyter Notebook called 'BusStops.ipynb'. A .py file is also included.
 
 When buses arrive at school either too close or too far from the bell, students must decide between waiting long stretches and being late to class.
 
